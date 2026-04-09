@@ -8,7 +8,7 @@ This project is a single-page web application to manage marketing personnel and 
 
 ## Features
 - Add, Edit, Delete Personnel
-- View Sales by Personnel
+- Add, Delete, View Sales by Personnel
 - RESTful API architecture
 
 ## Setup Instructions

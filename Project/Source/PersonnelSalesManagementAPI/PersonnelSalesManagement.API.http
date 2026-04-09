@@ -1,0 +1,5 @@
+﻿@PersonnelSalesManagement.API_HostAddress = https://localhost:7122
+
+GET {{PersonnelSalesManagement.API_HostAddress}}/weatherforecast
+
+###

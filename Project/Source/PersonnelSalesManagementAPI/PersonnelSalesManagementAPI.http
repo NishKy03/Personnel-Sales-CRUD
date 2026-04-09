@@ -1,0 +1,6 @@
+@PersonnelSalesManagementAPI_HostAddress = http://localhost:5093
+
+GET {{PersonnelSalesManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
